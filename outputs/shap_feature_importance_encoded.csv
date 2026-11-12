@@ -1,0 +1,46 @@
+encoded_feature,mean_abs_shap
+categorical__Contract_Month-to-month,0.7461548
+numeric__tenure,0.36992916
+numeric__MonthlyCharges,0.28115234
+categorical__OnlineSecurity_No,0.23648322
+categorical__TechSupport_No,0.18125181
+categorical__InternetService_Fiber optic,0.17614542
+numeric__TotalCharges,0.16407269
+categorical__PaperlessBilling_No,0.13462068
+categorical__PaymentMethod_Electronic check,0.13255225
+categorical__Contract_Two year,0.13001452
+categorical__MultipleLines_No,0.08433105
+categorical__OnlineBackup_No,0.08136263
+categorical__Contract_One year,0.065114506
+numeric__SeniorCitizen,0.047561828
+categorical__StreamingMovies_Yes,0.04328323
+categorical__Dependents_No,0.04023381
+categorical__gender_Female,0.025596743
+categorical__DeviceProtection_No,0.019942902
+categorical__InternetService_DSL,0.018592784
+categorical__StreamingTV_Yes,0.015682943
+categorical__DeviceProtection_Yes,0.01566518
+categorical__PhoneService_No,0.015624863
+categorical__MultipleLines_Yes,0.015496651
+categorical__StreamingMovies_No,0.015456192
+categorical__PaymentMethod_Credit card (automatic),0.013720703
+categorical__Partner_No,0.012497335
+categorical__PaymentMethod_Mailed check,0.01182602
+categorical__StreamingTV_No,0.011085676
+categorical__PaymentMethod_Bank transfer (automatic),0.010693994
+categorical__OnlineSecurity_Yes,0.009583775
+categorical__OnlineBackup_Yes,0.0069434843
+categorical__TechSupport_Yes,0.0066621695
+categorical__PaperlessBilling_Yes,0.0044113914
+categorical__gender_Male,0.00382566
+categorical__PhoneService_Yes,0.003426337
+categorical__Partner_Yes,0.0027024555
+categorical__InternetService_No,0.0006337278
+categorical__Dependents_Yes,0.00041860552
+categorical__TechSupport_No internet service,0.0
+categorical__OnlineBackup_No internet service,0.0
+categorical__OnlineSecurity_No internet service,0.0
+categorical__MultipleLines_No phone service,0.0
+categorical__DeviceProtection_No internet service,0.0
+categorical__StreamingMovies_No internet service,0.0
+categorical__StreamingTV_No internet service,0.0

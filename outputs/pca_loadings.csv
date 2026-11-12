@@ -1,0 +1,46 @@
+feature,PC1_loading,PC2_loading
+numeric__SeniorCitizen,0.14587782,-0.1767831
+numeric__tenure,0.3030377,0.4901221
+numeric__MonthlyCharges,0.49339303,-0.1602505
+numeric__TotalCharges,0.46129355,0.30678555
+categorical__gender_Female,0.0027319642,-0.0017465145
+categorical__gender_Male,-0.0027319847,0.0017465443
+categorical__Partner_No,-0.06520005,-0.13372782
+categorical__Partner_Yes,0.065200046,0.13372786
+categorical__Dependents_No,0.01261157,-0.10856452
+categorical__Dependents_Yes,-0.012611571,0.108564526
+categorical__PhoneService_No,-0.008433865,-0.015084017
+categorical__PhoneService_Yes,0.008433848,0.015084041
+categorical__MultipleLines_No,-0.13117573,-0.019081485
+categorical__MultipleLines_No phone service,-0.008433865,-0.015084017
+categorical__MultipleLines_Yes,0.13960959,0.03416553
+categorical__InternetService_DSL,0.008836543,-0.030114109
+categorical__InternetService_Fiber optic,0.15958636,-0.11865531
+categorical__InternetService_No,-0.16842291,0.14876945
+categorical__OnlineSecurity_No,0.07088289,-0.20800951
+categorical__OnlineSecurity_No internet service,-0.16842291,0.14876945
+categorical__OnlineSecurity_Yes,0.09754,0.059240095
+categorical__OnlineBackup_No,0.029935056,-0.19379827
+categorical__OnlineBackup_No internet service,-0.16842291,0.14876945
+categorical__OnlineBackup_Yes,0.13848783,0.045028877
+categorical__DeviceProtection_No,0.02277236,-0.20321865
+categorical__DeviceProtection_No internet service,-0.16842291,0.14876944
+categorical__DeviceProtection_Yes,0.14565054,0.054449257
+categorical__TechSupport_No,0.062902786,-0.21379656
+categorical__TechSupport_No internet service,-0.16842291,0.14876944
+categorical__TechSupport_Yes,0.105520114,0.06502715
+categorical__StreamingTV_No,0.0021950393,-0.16229801
+categorical__StreamingTV_No internet service,-0.16842291,0.14876944
+categorical__StreamingTV_Yes,0.16622786,0.013528604
+categorical__StreamingMovies_No,0.0009119381,-0.16256678
+categorical__StreamingMovies_No internet service,-0.16842291,0.14876944
+categorical__StreamingMovies_Yes,0.16751097,0.013797389
+categorical__Contract_Month-to-month,-0.04398473,-0.24834394
+categorical__Contract_One year,0.017621744,0.0650683
+categorical__Contract_Two year,0.026362972,0.1832757
+categorical__PaperlessBilling_No,-0.09374534,0.09145018
+categorical__PaperlessBilling_Yes,0.093745336,-0.091450185
+categorical__PaymentMethod_Bank transfer (automatic),0.02828571,0.05929672
+categorical__PaymentMethod_Credit card (automatic),0.025996968,0.06094583
+categorical__PaymentMethod_Electronic check,0.044282597,-0.1403397
+categorical__PaymentMethod_Mailed check,-0.09856529,0.020097176

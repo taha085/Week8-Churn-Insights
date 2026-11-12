@@ -1,0 +1,10 @@
+{
+  "holdout_rows": 1761,
+  "holdout_average_precision": 0.6478746715204079,
+  "holdout_roc_auc": 0.8465707316588836,
+  "permutation_scoring": "average_precision",
+  "permutation_repeats": 10,
+  "shap_rows": 1000,
+  "model_retrained": false,
+  "holdout_split": "25% stratified; random_state=42, matching Week 7"
+}

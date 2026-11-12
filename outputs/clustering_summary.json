@@ -1,0 +1,33 @@
+{
+  "selected_k": 3,
+  "selection_rule": "Highest silhouette score among k=2,3,4,5,6",
+  "pca_explained_variance_ratio": [
+    0.2721549868583679,
+    0.1810460388660431
+  ],
+  "pca_total_explained_variance": 0.453201025724411,
+  "input_features": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "target_excluded_from_clustering": true,
+  "customer_id_excluded": true,
+  "n_customers": 7043
+}
